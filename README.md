@@ -214,42 +214,11 @@ For direction violation detection, some lines are drawn to divide into regions. 
 
 Figure  13: Direction violation camera representation
 
-Libraries used for graphical user interface:
+### Libraries used for graphical user interface:
 
 1. PyQt5
 2. QDarkStyle
 3. PyQtTimer
-
-## Contributing
-
-The main reason to publish something open source, is that anyone can just jump in and start contributing to my project.
-So If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
-
-## Links and References
-
-- Project homepage: https://github.com/rahatzamancse/Traffic-Rules-Violation-Detection
-- Repository: https://github.com/rahatzamancse/Traffic-Rules-Violation-Detection.git
-- Issue tracker: https://github.com/rahatzamancse/Traffic-Rules-Violation-Detection/issues
-- G. Ou, Y. Gao and Y. Liu, "Real TimeVehicularTrafficViolationDetectioninTrafficMonitorin gStream," in 2012 IEEE/WIC/ACM , Beijing, China , 2012.
-- X. Wang, L.-M. Meng, B. Zhang, J. Lu and K.-L.Du, "A Video-based Traffic Violation Detection System," in MEC, Shenyang, China, 2013.
-- PyQt: https://riverbankcomputing.com/software/pyqt/intro
-- opencv: https://docs.opencv.org/2.4/index.html
-- imutils: https://github.com/jrosebr1/imutils
-- In case of any help you may need from me, please contact rahatzamancse@gmail.com directly without any hesitation! I will be glad to help you.
-
-## Author
-
-Rahat Zaman, Sakib Reza
-rahatzamancse@gmail.com
-Student at Department of Computer Science and Engineering
-Khulna University of Engineering & Technology, Khulna
-Bangladesh
-
-** Supervised under **
-Dr. Sk. Mohammad Masudul Ahsan
-Professor
-Dept. of Computer Science and Engineering
-Khulna University of Engineering & Technology
 
 ## Licensing
 
