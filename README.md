@@ -8,7 +8,6 @@
 ![Dark theme Screen shot](images/main_black.png)
 
 
-<img src="images/overall-usage.png" alt="Overal Usage" align="right" width="250" />
 This is a software for practice of developing a system from completely scratch. Understanding this will help a lot in system development and basic structure of a system along with computer vision, GUI with python library PyQt and basic opencv.
 
 ## Table of content
