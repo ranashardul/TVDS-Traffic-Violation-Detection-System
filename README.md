@@ -2,12 +2,6 @@
 
 > (Everything is not completed)
 
-![Overal use case](images/main.gif)
-
-
-![Dark theme Screen shot](images/main_black.png)
-
-
 This is a software for practice of developing a system from completely scratch. Understanding this will help a lot in system development and basic structure of a system along with computer vision, GUI with python library PyQt and basic opencv.
 
 ## Table of content
@@ -327,4 +321,4 @@ Figure  13: Direction violation camera representation
 
 ## Licensing
 
-The code in this project is licensed under GNU GPLv3 license.
+The code in this project is licensed under MIT license.
