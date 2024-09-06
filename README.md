@@ -124,7 +124,7 @@ By structuring the database in BCNF, we ensure that the data is free of redundan
 
 ![Database Scheme](images/schema.png)
 
-** Here are the descriptions of each tables: **
+**Here are the descriptions of each tables:**
 
 #### Cars Table
 This table records details about cars captured by the camera. Each car is represented by the following attributes:
