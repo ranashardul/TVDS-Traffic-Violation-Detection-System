@@ -85,7 +85,7 @@ From the preprocessed image, moving objects are extracted. A vehicle classificat
 
 ![Mobilenet Architecture](images/mobilenetv1.png)
 
-Fig: MobileNet Body Architecture.
+Fig 1: MobileNet Body Architecture.
 
 ![Parameter Trainning](images/trainning.png)
 
