@@ -33,7 +33,7 @@ Go [here](#quick-starting-the-project) if you don't have time.
 
 ## Motivation
 
-This project is made for the third semester of the second year for the Project Exhibition 2.
+This project is made for the third semester of the second year for Project Exhibition 2.
 
 ## Introduction
 
