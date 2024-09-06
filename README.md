@@ -183,7 +183,7 @@ The GUI is designed to provide an administrative interface and debugging tools, 
 
 ![Figure 2](images/fig2.png)
 
-Figure 2: Overall user interface view
+Figure 3: Overall user interface view
 
 At the start of the project, the administrator will need to configure the camera through the provided menu item. The setup process includes:
 
@@ -199,7 +199,7 @@ By providing these details, the system ensures that cameras are properly set up 
 
 ![Figure 3](images/fig3.png)
 
-Figure 3: Interface for adding camera entity
+Figure 4: Interface for adding camera entity
 
 For the initial setup of the system, the administrator needs to:
 
@@ -216,7 +216,7 @@ Once the camera is added and configured, the software will automatically begin d
 
 ![Figure 4](images/fig4.png)
 
-Figure 4: List view of violation records
+Figure 5: List view of violation records
 
 The graphical user interface (GUI) enables the administrator to manage various entities in the database. The admin can add the following objects through the GUI:
 
@@ -229,9 +229,10 @@ The graphical user interface (GUI) enables the administrator to manage various e
 4. Violation: Record violations detected by cameras, including which car violated which rule and the time of violation (see Fig-5).
 
 The GUI provides a user-friendly interface to facilitate the addition and management of these entities, ensuring efficient and organized data handling.
+
 ![Figure 5](images/fig5.png)
 
-Figure 5: Adding items interface
+Figure 6: Adding items interface
 
 The graphical user interface (GUI) is designed to facilitate supervision of camera groups. A key feature of the GUI is that it allows the supervisor to:
 
@@ -242,9 +243,10 @@ The graphical user interface (GUI) is designed to facilitate supervision of came
 3. File Reports and Tickets: By clicking the detail button for a specific violation, a new window opens, allowing the supervisor to file a report or send/print a ticket for the car owner.
 
 This feature ensures that supervisors can efficiently manage and address rule violations, providing a streamlined process for documentation and enforcement.
+
 ![Figure 8](images/detail.png)
 
-Figure 8: details of rule violation
+Figure 7: details of rule violation
 
 The graphical user interface (GUI) provides several additional functionalities for record management and searching:
 
@@ -257,9 +259,10 @@ The graphical user interface (GUI) provides several additional functionalities f
 * Date of Rule Violation: To locate records of violations on specific dates.
   
 These features ensure effective record management and make it easier for users to retrieve and verify information as needed.
+
 ![Figure 9](images/search.png)
 
-Figure  9: Searching a car or rule violation
+Figure  8: Searching a car or rule violation
 
 ### Rules violation video representation in UI
 
@@ -279,9 +282,10 @@ To detect signal violations, the system utilizes a straight line in the cameraâ€
 * Live Preview: Users can view a real-time preview of the camera feed, allowing them to see which cars are being detected and tested for crossing the line.
 
 This setup ensures timely and accurate detection of signal violations, enabling effective traffic enforcement.
+
 ![Figure 11](images/signal.png)
 
-Figure  11: Signal violation camera representation
+Figure  9: Signal violation camera representation
 
 **Parking Violation Detection**
 To monitor parking violations, the system uses a preconfigured rectangular area to define restricted parking zones:
@@ -295,7 +299,7 @@ This approach ensures that vehicles parked in restricted areas are accurately de
 
 ![Figure 12](images/parking.png)
 
-Figure  12: Parking violation camera representation
+Figure  10: Parking violation camera representation
 
 **Direction Violation Detection**
 To detect direction violations, the system employs a method involving predefined lines that divide the cameraâ€™s field of view into distinct regions:
@@ -310,7 +314,7 @@ This method ensures that incorrect directional movements are detected and record
 
 ![Figure 13](images/direction.png)
 
-Figure  13: Direction violation camera representation
+Figure  11: Direction violation camera representation
 
 ### Libraries used for graphical user interface:
 
