@@ -1,8 +1,6 @@
 # Traffic Rules Violation Detection with Computer Vision
 
-> Initial Release (Everything is not completed)
-
-:star: Please star this project. It helps a lot.
+> (Everything is not completed)
 
 ![Overal use case](images/main.gif)
 
