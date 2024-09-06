@@ -106,11 +106,11 @@ The training parameters for the model, which include key settings like learning 
 
 After detecting the vehicles, the system identifies three possible types of traffic violations:
 
-*Signal Violation: A signal violation is detected when a vehicle crosses a predefined line on the road while the traffic light is red. The system continuously monitors the vehicle's position in relation to the signal and line to determine this violation.
+* Signal Violation: A signal violation is detected when a vehicle crosses a predefined line on the road while the traffic light is red. The system continuously monitors the vehicle's position in relation to the signal and line to determine this violation.
 
-*Parking Violation: If a vehicle remains stationary in a no-parking zone for a predefined period, the system detects it as a parking violation. The system uses time-tracking to ensure that only vehicles violating the parking rule for an extended period are flagged.
+* Parking Violation: If a vehicle remains stationary in a no-parking zone for a predefined period, the system detects it as a parking violation. The system uses time-tracking to ensure that only vehicles violating the parking rule for an extended period are flagged.
 
-*Direction Violation: A direction violation occurs when a vehicle moves in the wrong direction on the road. The system tracks the vehicle's movement by analyzing its current position and comparing it to its previous positions. If the trajectory indicates movement against the permitted direction, the system flags it as a direction violation.
+* Direction Violation: A direction violation occurs when a vehicle moves in the wrong direction on the road. The system tracks the vehicle's movement by analyzing its current position and comparing it to its previous positions. If the trajectory indicates movement against the permitted direction, the system flags it as a direction violation.
 
 ### Database Structure
 
